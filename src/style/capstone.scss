@@ -1,0 +1,40 @@
+
+
+.link {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    a {
+        display: flex;
+        justify-content: center;
+        height: 100px;
+        width: 300px;
+        font-size: 1.25em;
+    }
+}
+
+.Sub {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    margin-bottom: 125px;
+}
+.left {
+    margin-right: 50px;
+}
+
+.center {
+    margin: 0px 0px;
+}
+
+.right {
+    margin-left: 50px;
+}
+.columns {
+    display: flex;
+    justify-content: center;
+}
